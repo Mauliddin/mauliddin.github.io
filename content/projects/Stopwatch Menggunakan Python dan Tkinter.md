@@ -4,7 +4,7 @@ date: 2025-05-23
 tags: ["article", "projects", "python", "tkinter"]
 ---
 
-[Stopwatch dengan python dan tkinter](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Jgb7wnYe4OhZPOiclNcipA.png)
+![Stopwatch dengan python dan tkinter](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Jgb7wnYe4OhZPOiclNcipA.png)
  
 Keterangan :
 **Display waktu** : Berfungsi menunjukan waktu stopwatch, saat jam atau menitnya bernilai 0, jam atau menitnya tidak akan ditampilkan.
