@@ -1,5 +1,5 @@
 ---
-title: "Power Supply Untuk Wemos D1 Mini"
+title: "Stopwatch dengan python dan tkinter"
 date: 2025-05-23
 tags: ["article", "projects", "python", "tkinter"]
 ---
