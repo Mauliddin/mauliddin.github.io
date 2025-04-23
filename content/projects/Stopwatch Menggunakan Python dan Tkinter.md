@@ -6,7 +6,7 @@ tags: ["article", "projects", "python", "tkinter"]
 
 ![Stopwatch dengan python dan tkinter](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Jgb7wnYe4OhZPOiclNcipA.png)
  
-Keterangan :
+##### Keterangan :
 **Display waktu** : Berfungsi menunjukan waktu stopwatch, saat jam atau menitnya bernilai 0, jam atau menitnya tidak akan ditampilkan.
 **Start Button** : Untuk memulai waktu stopwatch.
 **Pause Button**: Untuk menjeda waktu Stopwatch.
