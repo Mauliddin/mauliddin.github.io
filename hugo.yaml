@@ -3,7 +3,6 @@ languageCode: en-us
 title: Mauliddin
 theme: ["PaperMod"]
 
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -34,12 +33,13 @@ languages:
         - name: Posts
           url: posts/
           weight: 5
-        - name: Tags
-          url: tags/
-          weight: 10
         - name: Search
           url: search/
           weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+
 
 outputs:
   home:
@@ -99,7 +99,7 @@ params:
     - name: Linkedin
       title: My Linkedin
       url: "#"
-    - name: medium
+    - name: Medium
       title: My medium
       url: "#"
 
