@@ -95,17 +95,17 @@ params:
   socialIcons:
     - name: instagram
       title: My Instagram
-      url: "#"
+      url: "https://www.instagram.com/mauliddinnurm/"
     - name: Linkedin
       title: My Linkedin
-      url: "#"
+      url: "https://www.linkedin.com/in/mauliddin-nur-muhammad-2a6178245/"
     - name: Medium
       title: My medium
-      url: "#"
+      url: "https://medium.com/@mauliddin77"
 
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/Mauliddin/mauliddin.github.io/content/posts/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
