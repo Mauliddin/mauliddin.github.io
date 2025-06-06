@@ -37,6 +37,9 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - name: Search
+          url: search/
+          weight: 10
 
 outputs:
   home:
@@ -95,6 +98,9 @@ params:
       url: "#"
     - name: Linkedin
       title: My Linkedin
+      url: "#"
+    - name: medium
+      title: My medium
       url: "#"
 
 
