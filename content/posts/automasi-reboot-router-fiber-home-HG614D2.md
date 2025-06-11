@@ -2,6 +2,7 @@
 date: '2025-06-11T21:05:42+08:00'
 draft: False
 title: 'Automasi Reboot Router (Fiber Home HG614D2)'
+tags: ["python", "automation", "selenium"]
 ---
 Script untuk mereboot router secara terus menerus, sehingga membuat wifi / router tampak seperti dalam gangguan / masalah.
 
